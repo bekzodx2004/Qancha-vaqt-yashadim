@@ -1,0 +1,23 @@
+.soat{
+    display: flex;
+    border: 1px solid #000;
+    max-width: 240px;
+    margin: auto;
+    font-family: cursive;
+}
+
+h1{
+    margin: 10px;
+}
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+input{
+    margin: 10px;
+}
+.sar{
+    text-align: center;
+}
